@@ -16,10 +16,10 @@
 /* Begin PBXFileReference section */
 		97F52D7123799664008F9A63 /* WebScreen.saver */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WebScreen.saver; sourceTree = BUILT_PRODUCTS_DIR; };
 		97F52D7823799664008F9A63 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		97F52D7E2379969A008F9A63 /* Preferences.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = Preferences.xib; path = ../../wevscreen/WebViewScreen/Preferences.xib; sourceTree = "<group>"; };
-		97F52D7F2379969A008F9A63 /* Preferences.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Preferences.swift; path = ../../wevscreen/WebViewScreen/Preferences.swift; sourceTree = "<group>"; };
-		97F52D802379969A008F9A63 /* PreferencesWindowController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PreferencesWindowController.swift; path = ../../wevscreen/WebViewScreen/PreferencesWindowController.swift; sourceTree = "<group>"; };
-		97F52D812379969A008F9A63 /* WebScreen.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = WebScreen.swift; path = ../../wevscreen/WebViewScreen/WebScreen.swift; sourceTree = "<group>"; };
+		97F52D7E2379969A008F9A63 /* Preferences.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Preferences.xib; sourceTree = "<group>"; };
+		97F52D7F2379969A008F9A63 /* Preferences.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Preferences.swift; sourceTree = "<group>"; };
+		97F52D802379969A008F9A63 /* PreferencesWindowController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PreferencesWindowController.swift; sourceTree = "<group>"; };
+		97F52D812379969A008F9A63 /* WebScreen.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
